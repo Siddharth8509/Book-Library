@@ -23,7 +23,22 @@ This is a **Book Library Web App** that allows users to browse and search for bo
  ├── 📄 Logo.png         # Logo 
  └── 📄 README.md        # Project documentation
 ```
+## 📸 Screenshots
 
+### 📖 List View  
+The books are displayed in a vertical **list format** with details such as author, publisher, and published date.  
+
+![List View](./Screenshots/List%20view.jpeg)
+
+### 🔲 Grid View  
+The books are displayed in a **grid layout**, making it easier to browse multiple books at once.  
+
+![Grid View](./Screenshots/preview.jpeg)
+
+### 🔍 Search Feature  
+Users can search for books dynamically, filtering results based on the search input.  
+
+![Search View](./Screenshots/Search%20View.jpeg)
 ## ⚙️ How to Run the Project
 1. **Clone the Repository:**
    ```sh
