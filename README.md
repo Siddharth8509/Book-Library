@@ -20,7 +20,7 @@ This is a **Book Library Web App** that allows users to browse and search for bo
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # Styling for UI
  ├── 📄 script.js        # Main JavaScript file
- ├── 📂 assets           # Images and other assets
+ ├── 📄 Logo.png         # Logo 
  └── 📄 README.md        # Project documentation
 ```
 
@@ -39,3 +39,8 @@ This is a **Book Library Web App** that allows users to browse and search for bo
 📥 Implement a "Favorite Books" feature.
 
 🎨 Improve UI with animations and themes.
+
+## 🌍 Deployment
+
+This project is live! Check it out here:  
+🔗 [Live Demo](https://book-library-yk4v.vercel.app/)
